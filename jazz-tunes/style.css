@@ -2,3 +2,6 @@
 
 
 /* NEW CSS HERE */
+img {
+    border-style: double;border-width: 4px;
+}
