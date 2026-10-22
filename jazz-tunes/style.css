@@ -9,10 +9,12 @@ body{
     background-image: url("legoat.jpg"); :rgb(0 0 0 / 30%); 
    background-size: width="100%" Height="20%";
    
+   
 
 }
 article {
     background-color:rgba(245, 245, 245, 1);
     border:#001d3d;
     border-width: 6px;
+    border-style: groove;
 }
